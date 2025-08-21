@@ -1,0 +1,495 @@
+[
+    {
+        "name": "DUy",
+        "total_score": 300,
+        "total_time": 187.52,
+        "level": "Level 1",
+        "play_date": "2025-08-13 00:05:32",
+        "exercise_names": [
+            "Duỗi chân",
+            "Cúi người về trước",
+            "Giơ tay ngang"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            100
+        ],
+        "exercise_times": [
+            96.269,
+            47.423,
+            43.831
+        ]
+    },
+    {
+        "name": "2121",
+        "total_score": 90,
+        "total_time": 128.053,
+        "level": "Level 1",
+        "play_date": "2025-08-13 00:30:07",
+        "exercise_names": [
+            "Giơ tay ngang",
+            "Xoay tay",
+            "Tập ngực"
+        ],
+        "exercise_scores": [
+            90,
+            0
+        ],
+        "exercise_times": [
+            120.074,
+            7.979
+        ]
+    },
+    {
+        "name": "Duyi",
+        "total_score": 130,
+        "total_time": 75.563,
+        "level": "Level 1",
+        "play_date": "2025-08-13 00:16:20",
+        "exercise_names": [
+            "Cúi người về trước",
+            "Duỗi chân",
+            "Giơ tay ngang"
+        ],
+        "exercise_scores": [
+            100,
+            30
+        ],
+        "exercise_times": [
+            44.456,
+            31.107
+        ]
+    },
+    {
+        "name": "Duyi",
+        "total_score": 100,
+        "total_time": 75.56,
+        "level": "Level 1",
+        "play_date": "2025-08-13 00:16:20",
+        "exercise_names": [
+            "Cúi người về trước",
+            "Duỗi chân",
+            "Giơ tay ngang"
+        ],
+        "exercise_scores": [
+            100,
+            30
+        ],
+        "exercise_times": [
+            44.456,
+            31.107
+        ]
+    },
+    {
+        "name": "2121",
+        "total_score": 90,
+        "total_time": 128.05,
+        "level": "Level 1",
+        "play_date": "2025-08-13 00:30:07",
+        "exercise_names": [
+            "Giơ tay ngang",
+            "Xoay tay",
+            "Tập ngực"
+        ],
+        "exercise_scores": [
+            90,
+            0
+        ],
+        "exercise_times": [
+            120.074,
+            7.979
+        ]
+    },
+    {
+        "name": "22",
+        "total_score": 0,
+        "total_time": 16.93,
+        "level": "Level 1",
+        "play_date": "2025-08-13 00:34:52",
+        "exercise_names": [
+            "Tập ngực",
+            "Duỗi chân",
+            "Tay trước ngực"
+        ],
+        "exercise_scores": [
+            30
+        ],
+        "exercise_times": [
+            16.935
+        ]
+    },
+    {
+        "name": "2111",
+        "total_score": 200,
+        "total_time": 230.206,
+        "level": "Level 1",
+        "play_date": "2025-08-13 00:42:41",
+        "exercise_names": [
+            "Kết hợp tay và chân",
+            "Giơ tay ngang",
+            "Xoay tay"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            0
+        ],
+        "exercise_times": [
+            59.778,
+            50.381,
+            120.047
+        ]
+    },
+    {
+        "name": "2111",
+        "total_score": 200,
+        "total_time": 230.21,
+        "level": "Level 1",
+        "play_date": "2025-08-13 00:42:41",
+        "exercise_names": [
+            "Kết hợp tay và chân",
+            "Giơ tay ngang",
+            "Xoay tay"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            0
+        ],
+        "exercise_times": [
+            59.778,
+            50.381,
+            120.047
+        ]
+    },
+    {
+        "name": "hihi",
+        "total_score": 200,
+        "total_time": 176.02,
+        "level": "Level 1",
+        "play_date": "2025-08-13 00:51:50",
+        "exercise_names": [
+            "Tay trước ngực",
+            "Duỗi chân",
+            "Chéo tay"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            50
+        ],
+        "exercise_times": [
+            41.094,
+            106.492,
+            28.434
+        ]
+    },
+    {
+        "name": "quy",
+        "total_score": 300,
+        "total_time": 116.55300000000001,
+        "level": "Level 1",
+        "play_date": "2025-08-13 06:34:51",
+        "exercise_names": [
+            "Nâng tay",
+            "Cúi người về trước",
+            "Kết hợp tay và chân"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            100
+        ],
+        "exercise_times": [
+            34.706,
+            42.1,
+            39.747
+        ]
+    },
+    {
+        "name": "quy",
+        "total_score": 300,
+        "total_time": 116.55,
+        "level": "Level 1",
+        "play_date": "2025-08-13 06:34:51",
+        "exercise_names": [
+            "Nâng tay",
+            "Cúi người về trước",
+            "Kết hợp tay và chân"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            100
+        ],
+        "exercise_times": [
+            34.706,
+            42.1,
+            39.747
+        ]
+    },
+    {
+        "name": "hihi",
+        "total_score": 300,
+        "total_time": 114.18,
+        "level": "Level 1",
+        "play_date": "2025-08-13 06:42:23",
+        "exercise_names": [
+            "Nâng đầu gối",
+            "Giơ tay ngang",
+            "Tập ngực"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            100
+        ],
+        "exercise_times": [
+            37.511,
+            40.621,
+            36.048
+        ]
+    },
+    {
+        "name": "khang",
+        "total_score": 300,
+        "total_time": 152.007,
+        "level": "Level 1",
+        "play_date": "2025-08-13 07:19:24",
+        "exercise_names": [
+            "Cúi người về trước",
+            "Xoay tay",
+            "Tay trước ngực"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            100
+        ],
+        "exercise_times": [
+            73.899,
+            37.154,
+            40.954
+        ]
+    },
+    {
+        "name": "khang",
+        "total_score": 300,
+        "total_time": 152.01,
+        "level": "Level 1",
+        "play_date": "2025-08-13 07:19:24",
+        "exercise_names": [
+            "Cúi người về trước",
+            "Xoay tay",
+            "Tay trước ngực"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            100
+        ],
+        "exercise_times": [
+            73.899,
+            37.154,
+            40.954
+        ]
+    },
+    {
+        "name": "Lam nguyen",
+        "total_score": 300,
+        "total_time": 154.83,
+        "level": "Leg Exercise",
+        "play_date": "2025-08-13 07:24:41",
+        "exercise_names": [
+            "Duỗi chân",
+            "Nâng đầu gối",
+            "Kết hợp tay và chân"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            100
+        ],
+        "exercise_times": [
+            84.986,
+            33.433,
+            36.411
+        ]
+    },
+    {
+        "name": "Lam nguyen",
+        "total_score": 300,
+        "total_time": 154.83,
+        "level": "Leg Exercise",
+        "play_date": "2025-08-13 07:24:41",
+        "exercise_names": [
+            "Duỗi chân",
+            "Nâng đầu gối",
+            "Kết hợp tay và chân"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            100
+        ],
+        "exercise_times": [
+            84.986,
+            33.433,
+            36.411
+        ]
+    },
+    {
+        "name": "duy ngu",
+        "total_score": 260,
+        "total_time": 198.286,
+        "level": "Level 1",
+        "play_date": "2025-08-13 07:35:43",
+        "exercise_names": [
+            "Duỗi chân",
+            "Chéo tay",
+            "Nâng đầu gối"
+        ],
+        "exercise_scores": [
+            60,
+            100,
+            100
+        ],
+        "exercise_times": [
+            120.04,
+            42.042,
+            36.204
+        ]
+    },
+    {
+        "name": "duy ngu",
+        "total_score": 260,
+        "total_time": 198.29,
+        "level": "Level 1",
+        "play_date": "2025-08-13 07:35:43",
+        "exercise_names": [
+            "Duỗi chân",
+            "Chéo tay",
+            "Nâng đầu gối"
+        ],
+        "exercise_scores": [
+            60,
+            100,
+            100
+        ],
+        "exercise_times": [
+            120.04,
+            42.042,
+            36.204
+        ]
+    },
+    {
+        "name": "duy ngu",
+        "total_score": 290,
+        "total_time": 173.25099999999998,
+        "level": "Leg Exercise",
+        "play_date": "2025-08-13 07:40:05",
+        "exercise_names": [
+            "Duỗi chân",
+            "Kết hợp tay và chân",
+            "Nâng đầu gối"
+        ],
+        "exercise_scores": [
+            90,
+            100,
+            100
+        ],
+        "exercise_times": [
+            120.056,
+            28.739,
+            24.456
+        ]
+    },
+    {
+        "name": "duy ngu",
+        "total_score": 290,
+        "total_time": 173.25,
+        "level": "Leg Exercise",
+        "play_date": "2025-08-13 07:40:05",
+        "exercise_names": [
+            "Duỗi chân",
+            "Kết hợp tay và chân",
+            "Nâng đầu gối"
+        ],
+        "exercise_scores": [
+            90,
+            100,
+            100
+        ],
+        "exercise_times": [
+            120.056,
+            28.739,
+            24.456
+        ]
+    },
+    {
+        "name": "Duybaocao",
+        "total_score": 0,
+        "total_time": 0,
+        "level": "Level 3",
+        "play_date": "2025-08-13 09:01:30",
+        "exercise_names": [
+            "Giơ tay ngang",
+            "Xoay tay",
+            "Tay trước ngực",
+            "Chéo tay",
+            "Nâng đầu gối",
+            "Nâng tay",
+            "Tập ngực",
+            "Duỗi chân",
+            "Kết hợp tay và chân",
+            "Cúi người về trước"
+        ],
+        "exercise_scores": [],
+        "exercise_times": []
+    },
+    {
+        "name": "duyng",
+        "total_score": 300,
+        "total_time": 125.852,
+        "level": "Level 1",
+        "play_date": "2025-08-13 09:04:21",
+        "exercise_names": [
+            "Kết hợp tay và chân",
+            "Nâng tay",
+            "Nâng đầu gối"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            100
+        ],
+        "exercise_times": [
+            40.597,
+            48.099,
+            37.156
+        ]
+    },
+    {
+        "name": "duyng",
+        "total_score": 300,
+        "total_time": 125.85,
+        "level": "Level 1",
+        "play_date": "2025-08-13 09:04:21",
+        "exercise_names": [
+            "Kết hợp tay và chân",
+            "Nâng tay",
+            "Nâng đầu gối"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            100
+        ],
+        "exercise_times": [
+            40.597,
+            48.099,
+            37.156
+        ]
+    }
+]
