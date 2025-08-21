@@ -491,5 +491,193 @@
             48.099,
             37.156
         ]
+    },
+    {
+        "name": "babyboo",
+        "total_score": 300,
+        "total_time": 121.226,
+        "level": "Level 1",
+        "play_date": "2025-08-21 16:35:29",
+        "exercise_names": [
+            "Chéo tay",
+            "Cúi người về trước",
+            "Kết hợp tay và chân"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            100
+        ],
+        "exercise_times": [
+            55.523,
+            28.604,
+            37.099
+        ]
+    },
+    {
+        "name": "babyboo",
+        "total_score": 300,
+        "total_time": 121.23,
+        "level": "Level 1",
+        "play_date": "2025-08-21 16:35:29",
+        "exercise_names": [
+            "Chéo tay",
+            "Cúi người về trước",
+            "Kết hợp tay và chân"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            100
+        ],
+        "exercise_times": [
+            55.523,
+            28.604,
+            37.099
+        ]
+    },
+    {
+        "name": "hh",
+        "total_score": 0,
+        "total_time": 0,
+        "level": "Level 1",
+        "play_date": "2025-08-21 16:59:58",
+        "exercise_names": [
+            "Nâng đầu gối",
+            "Giơ tay ngang",
+            "Kết hợp tay và chân"
+        ],
+        "exercise_scores": [],
+        "exercise_times": []
+    },
+    {
+        "name": "Duyn",
+        "total_score": 500,
+        "total_time": 192.737,
+        "level": "Level 2",
+        "play_date": "2025-08-21 17:06:09",
+        "exercise_names": [
+            "Arms Rotation",
+            "Knee Raise",
+            "Arms Front Chest",
+            "Leg Extension",
+            "Arms & Legs Combined"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            100,
+            100,
+            100
+        ],
+        "exercise_times": [
+            65.553,
+            30.431,
+            32.836,
+            26.508,
+            37.409
+        ]
+    },
+    {
+        "name": "Duyn",
+        "total_score": 500,
+        "total_time": 192.74,
+        "level": "Level 2",
+        "play_date": "2025-08-21 17:06:09",
+        "exercise_names": [
+            "Arms Rotation",
+            "Knee Raise",
+            "Arms Front Chest",
+            "Leg Extension",
+            "Arms & Legs Combined"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            100,
+            100,
+            100
+        ],
+        "exercise_times": [
+            65.553,
+            30.431,
+            32.836,
+            26.508,
+            37.409
+        ]
+    },
+    {
+        "name": "good",
+        "total_score": 300,
+        "total_time": 137.707,
+        "level": "Leg Exercise",
+        "play_date": "2025-08-21 17:14:33",
+        "exercise_names": [
+            "Knee Raise",
+            "Arms & Legs Combined",
+            "Leg Extension"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            100
+        ],
+        "exercise_times": [
+            33.858,
+            29.476,
+            74.373
+        ]
+    },
+    {
+        "name": "good",
+        "total_score": 300,
+        "total_time": 137.71,
+        "level": "Leg Exercise",
+        "play_date": "2025-08-21 17:14:33",
+        "exercise_names": [
+            "Knee Raise",
+            "Arms & Legs Combined",
+            "Leg Extension"
+        ],
+        "exercise_scores": [
+            100,
+            100,
+            100
+        ],
+        "exercise_times": [
+            33.858,
+            29.476,
+            74.373
+        ]
+    },
+    {
+        "name": "222",
+        "total_score": 0,
+        "total_time": 0,
+        "level": "Level 1",
+        "play_date": "2025-08-21 17:16:24",
+        "exercise_names": [
+            "Chest Exercise",
+            "Arms Sideways",
+            "Leg Extension"
+        ],
+        "exercise_scores": [],
+        "exercise_times": []
+    },
+    {
+        "name": "hehhe",
+        "total_score": 0,
+        "total_time": 0,
+        "level": "Level 2",
+        "play_date": "2025-08-21 17:17:35",
+        "exercise_names": [
+            "Knee Raise",
+            "Chest Exercise",
+            "Arms Sideways",
+            "Leg Extension",
+            "Arms & Legs Combined"
+        ],
+        "exercise_scores": [],
+        "exercise_times": []
     }
 ]

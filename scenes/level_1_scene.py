@@ -10,16 +10,16 @@ import datetime
 import os
 
 exercise_mapping = {
-    'knee_raise': 'Nâng đầu gối',
-    'forward_bend': 'Cúi người về trước',
-    'arms_crossed': 'Chéo tay',
-    'arms_legs_combined': 'Kết hợp tay và chân',
-    'leg_extension': 'Duỗi chân',
-    'arms_raised': 'Nâng tay',
-    'arms_sideways': 'Giơ tay ngang',
-    'arms_front_chest': 'Tay trước ngực',
-    'chest_exercise': 'Tập ngực',
-    'arms_rotation': 'Xoay tay'
+    'knee_raise': 'Knee Raise',
+    'forward_bend': 'Forward Bend',
+    'arms_crossed': 'Arms Crossed',
+    'arms_legs_combined': 'Arms & Legs Combined',
+    'leg_extension': 'Leg Extension',
+    'arms_raised': 'Arms Raised',
+    'arms_sideways': 'Arms Sideways',
+    'arms_front_chest': 'Arms Front Chest',
+    'chest_exercise': 'Chest Exercise',
+    'arms_rotation': 'Arms Rotation'
 }
 
 pose = mp.solutions.pose.Pose()
@@ -196,9 +196,9 @@ class Level1Scene:
                 frame_surface = pygame.surfarray.make_surface(display_frame.swapaxes(0, 1))
                 self.screen.blit(frame_surface, (0, 0))
                 if self.current_exercise_index < len(self.exercises):
-                    exercise_text = self.font.render(f"Bài tập: {self.exercises[self.current_exercise_index]}", True, (255, 255, 255))
+                    exercise_text = self.font.render(f"{self.exercises[self.current_exercise_index]}", True, (255, 255, 255))
                 else:
-                    exercise_text = self.font.render("Bài tập: Hoàn thành", True, (255, 255, 255))
+                    exercise_text = self.font.render("You're Improving!", True, (255, 255, 255))
                 elapsed_time = (current_time - self.start_time) / 1000
                 # Sửa logic thời gian
                 if elapsed_time >= 120 and self.current_exercise_index < len(self.exercises):
